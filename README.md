@@ -1,2 +1,3 @@
 # git_test
-github test
+First github repo from a Linux SYSTEM!
+Hey Odin!
